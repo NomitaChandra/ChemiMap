@@ -1,0 +1,533 @@
+Disease_Name,CID_Disease
+hypotensive,D007022
+cardiac asystole,D006323
+fasciculations,D005207
+overdosage,D062787
+hypertension,D006973
+proteinuria,D011507
+chronic renal failure,D007676
+nausea,D009325
+myocardial infarction,D009203
+bundle branch block,D002037
+tardive dystonia,D004421
+pigmentary retinal deposits,D012164
+Visual toxicity,D014786
+neurosensorial hearing loss,D006319
+Myasthenia gravis,D009157
+cystitis,D003556
+bleeding,D006470
+migraine,D008881
+hepatitis,D056486
+intravascular coagulation,D004211
+hypotension,D007022
+increase in heart rate and cardiac output,D016534
+seizures,D012640
+pulmonary obstruction,D011655
+Impotence,D007172
+RPN,D007681
+bladder cancer,D001749
+renal cancer,D007680
+hemolytic anemia,D000743
+impairment of ventricular function,D018754
+AV block,D054537
+mania,D001714
+muscular rigidity,D009127
+hyperkinetic,D006948
+akinetic,D018476
+fibrosis,D005355
+partial loss of quadriceps functions,D009135
+Unknown,D012140
+nerve entrapment,D009408
+acute renal failure,D058186
+neuromuscular disorders,D009468
+pleural effusions,D010996
+Pneumonitis,D011014
+hyperkalemia,D006947
+oliguria,D009846
+cirrhosis,D005355
+ascites,D001201
+cor pulmonale,D011660
+Dizziness,D004244
+pain,D010146
+cardiomegaly,D006332
+hypercalcemia,D006934
+hyperphosphatemia,D054559
+Diseases of peripheral nerves,D010523
+blurred vision,D014786
+dry mouth,D014987
+impaired immediate free recall,D008569
+bladder carcinomas,D001749
+forestomach tumors,D013274
+adenohypophyseal tumors,D010911
+nephrolithiasis,D053040
+cardiotoxicity,D066126
+Abnormal movements,D004409
+deafness,D003638
+glomerulonephritis,D005921
+renal failure,D051437
+nephropathy,D007674
+sleep disturbance,D012893
+Angioedema,D000799
+arthrogryposis,D001176
+cranial hemorrhage,D002543
+status epilepticus,D013226
+Infarcts in substantia nigra pars reticulata,D002544
+axonal damage,D001480
+Parkinson disability,D009069
+autoimmune hemolytic anemia,D000744
+agranulocytosis,D000380
+thrombosis,D013927
+thrombocytopenia,D013921
+neurotoxicity,D020258
+neutropenia,D009503
+artery calcification,D061205
+ventricular fibrillation,D014693
+respiratory depression,D012131
+urinary bladder retention,D001745
+bradycardia,D001919
+retention of urine,D016055
+cardiomyopathy,D009202
+locomotor hyperactivity,D009069
+jaundice,D007565
+cholestasis,D002779
+Hepatitis,D056486
+nephrotic syndrome,D009404
+migraineurs (without aura),D020326
+Coronary aneurysm,D003323
+penile erection,D010409
+dysphonia,D055154
+secondary hyperalgesia,D006930
+impaired social and emotional judgement processes,D003072
+hypocalcemia,D006996
+Proteinuria,D011507
+tiredness,D005221
+depressive symptoms,D003866
+inability to sleep,D007319
+dizziness,D004244
+paresthesia,D010292
+quadriparesis,D011782
+peripheral neuropathy,D010523
+ataxia,D001259
+vocal fold palsy,D014826
+retinal vein occlusion,D012170
+nystagmus,D009759
+gastric hemorrhagic,D006471
+atherosclerotic,D050197
+ulcers,D014456
+heart failure,D006333
+Confusion,D003221
+impairment of attention and memory,D008569
+learning impairment,D007859
+acute liver failure,D017114
+Central nervous system complications,D002493
+renal cell and head and neck cancers,D060831
+gastric,D013280
+pancreaticobiliary,D014839
+colorectal,D003967
+breast,D009325
+parkinsonian catalepsy,D002375
+depression,D003866
+Rabbit syndrome,D001480
+acute cardiovascular failure,D002318
+gastrointestinal disorders,D005767
+Renal papillary necrosis,D007681
+polyuria,D011141
+heart disease,D006331
+stress incontinence,D014550
+Myocardial infarction,D009203
+akathisia,D017109
+abnormalities of liver function,D056486
+intracerebral hemorrhage,D002543
+subarachnoid hemorrhage,D013345
+Cerebral infarction,D002544
+spasm,D013035
+angioneurotic edema,D000799
+sinoatrial block,D012848
+talipes equinovarus,D003025
+coarctation of the aorta,D001017
+ventricular septal defect,D006345
+Potter-type IIa polycystic kidney,D007690
+Veno-occlusive liver disease,D006504
+tardive dyskinesia,D004409
+intra-Hisian block,D006327
+Toxic hepatitis,D056486
+cholestatic,D002779
+bone marrow suppression,D001855
+confusion,D003221
+coma,D003128
+extrapyramidal symptoms,D001480
+Erythema multiforme,D004892
+drug-induced allergic reaction,D004342
+hypersensitivity myocarditis,D009205
+Anaphylaxis,D000707
+allergic reactions,D004342
+angioedema,D000799
+paralysis,D010243
+diabetic nephropathy,D003928
+cognitive and functional deficits,D003072
+impaired heart function,D006331
+leukopenia,D007970
+hypersensitivity,D004342
+cardiac arrest,D006323
+hyperkalaemia,D006947
+atrial fibrillation,D001281
+increase in blood pressure,D006973
+focal segmental glomerulosclerosis,D005923
+amnesia,D000647
+respiratory arrest,D012131
+desaturation,D001049
+venous thromboembolism,D054556
+aggressive behavior,D010554
+urinary incontinence,D014549
+Hypotension,D007022
+convulsions,D012640
+Torsades de pointes,D016171
+neuronal damage,D009410
+demyelinating disorder,D003711
+aplastic anemia,D000741
+seizure,D012640
+renal injury,D007674
+Acromegaly,D000172
+anemia,D000740
+dilated cardiomyopathy,D002311
+biliary pseudolithiasis,D001660
+torsades de pointes,D016171
+prolonged QT interval,D008133
+Cauda equina syndrome,D011128
+atherosclerosis,D050197
+renal dysfunction,D007674
+necrosis,D009336
+myopathy,D009135
+hearing loss,D034381
+autism,D001321
+myocarditis,D009205
+impaired word fluency,D008569
+Encephalopathy,D001927
+tonic-clonic seizures,D004830
+anxiety,D001008
+thromboembolic,D013923
+priapism,D011317
+ocular myasthenia,D009157
+ptosis on the right upper lid,D001763
+restricted right eye movement,D015835
+catalepsy,D002375
+hyperactivity,D006948
+decreased cardiac output,D002303
+cerebral hypoxia,D002534
+memory impairment,D008569
+hoarding,D060845
+hemolytic uremic syndrome,D006463
+myocardial injury,D009202
+depressive,D003866
+Fanconi's syndrome,D005198
+renal toxicity,D007674
+disturbances of sleep-wake rhythm,D012893
+psychoses,D011605
+anxiety neurosis,D001008
+gastrointestinal symptoms,D012817
+decreased appetite,D001068
+hyperemia,D006940
+intermittent claudication,D007383
+Angina,D000787
+rigidity,D009127
+cardiovascular disease,D002318
+chest pain,D002637
+high-frequency hearing loss,D006316
+visual disturbance,D014786
+headache,D006261
+gastrointestinal (GI) bleeding,D006471
+abdominal pain,D015746
+cord damage,D013118
+neuropsychiatric symptoms,D001523
+Ebstein's anomaly,D004437
+cardiac morphological alterations,D009202
+retinal vasculitis,D031300
+dementia,D003704
+clear cell adenocarcinoma,D018262
+cirrhosis of the liver,D008103
+enlargement of the liver,D006529
+diabetes-insipidus-like syndrome,D003919
+impaired memory,D008569
+enuresis,D004775
+weight loss,D015431
+hypercholesterolemia,D006937
+nephrotic syndromes,D009404
+hypoalbuminemia,D034141
+penile pain,D004414
+acute cholecystitis,D041881
+gallstone,D042882
+dyskinesia,D004409
+encephalopathy,D001927
+ischaemia,D007511
+retinal toxicity,D012164
+atrioventricular reentrant tachycardia,D013611
+liver disease,D008107
+loss of pinprick sensation,D012678
+Stevens-Johnson syndromes,D013262
+primary pulmonary hypertension,D006976
+choreoathetoid movements,D002819
+mood disorder,D019964
+Hemolysis,D006461
+cardiac hypertrophy,D006332
+tachycardia,D013610
+hyperalgesia,D006930
+thrombotic microangiopathy,D057049
+anuria,D001002
+necrotic,D009336
+nephrotoxicity,D007674
+lung toxicity,D008171
+Palpebral twitching,D004409
+constipation,D003248
+myoclonus,D009207
+visual field defects,D005128
+hematoma,D006406
+hippocampal injury,D001930
+Delirium,D003693
+dysarthria,D004401
+weakness of extremities,D018908
+tremor,D014202
+legs paralysis,D010243
+vascular dysfunctions,D002561
+increases in dural and cortical blood flow,D006940
+interstitial nephritis,D009395
+Cerebral vasculitis,D020293
+Cerebral haemorrhage,D002543
+vomiting,D014839
+cognitive deficits,D003072
+hepatitis B virus (HBV) infected,D006509
+neurodegeneration,D009422
+brachial neuritis,D020968
+aortic regurgitation,D001022
+mitral regurgitation,D008944
+adverse effect on the proximal eighth nerve,D000160
+sensorineural hearing loss,D006319
+lipidemia,D006949
+intrahepatic cholestasis,D002780
+cognitive impairment,D003072
+daytime sleepiness,D012893
+Extrapyramidal symptoms,D001480
+nephrosis,D009401
+heart block,D006327
+Angiosarcoma,D006394
+decreased thymus (P < 0.001) and bodyweights,D015431
+Drug-induced parkinsonism,D010302
+hepatotoxic,D056486
+fulminant hepatic failure,D017114
+caries,D003731
+thyrotoxicosis,D013971
+hyperthermia,D005334
+albuminuria,D000419
+apnea,D001049
+emesis,D014839
+clumsiness,D001259
+hepatitis B,D006509
+hypoxia,D000860
+postural hypotension,D007024
+sudden deterioration of renal function,D058186
+chronic active (aggressive) hepatitis,D006521
+dyskinesias,D004409
+arterial hypotension,D007022
+flushing of the face,D005483
+dyspnea,D004417
+hypothermia,D007035
+Cardiomyopathy,D009202
+renal calculi,D007669
+aplastic anaemia,D000741
+toxic to the central nervous system,D002493
+masseter spasm,D014313
+glomerular injury,D007674
+hemoglobinuria,D006456
+myoglobinuria,D009212
+Atypical sensations,D010292
+Tremor,D014202
+ventricular tachycardias,D017180
+petechiae,D011693
+haemolytic anaemia,D000743
+compartment syndrome,D003161
+granulomas,D006099
+cholestatic syndrome,D002779
+ruptured aneurysms,D017542
+absence seizures,D004832
+ventricular tachycardia,D017180
+initiation induced by carcinogens,D011230
+extrapyramidal concomitant symptoms,D001480
+withdrawal symptoms,D013375
+transient hemiparesis,D010291
+mucositis,D052016
+erythroderma,D003873
+leukemoid reaction,D007955
+Hypersensitivity,D004342
+hyponatremia,D007010
+myocardial ischemia,D017202
+hepatotoxicity,D056486
+liver failure,D017093
+rhabdomyolysis,D012206
+granulocytopenia,D000380
+peripheral neurotoxicity,D010523
+ocular hypotensive,D015814
+mydriasis,D015878
+entropion,D004774
+corneal abrasion,D003316
+Conjunctival blanching,D003229
+leukoencephalopathy,D056784
+organic mental disorders,D019965
+gastrointestinal problems,D012817
+intracranial bleeding,D013345
+Cardiovascular alterations,D018376
+extrapyramidal signs,D001480
+urticaria,D014581
+conjunctivitis,D003231
+pancreatitis,D010195
+impaired consciousness,D003244
+Haemolytic-uraemic syndrome,D006463
+inferior colliculus lesion,D001927
+ventricular ectopic beats,D018879
+overdosages,D062787
+myocardial damage,D009202
+edema,D004487
+optic atrophy,D009896
+myelopathy,D013118
+convulsive,D012640
+behavioral cross-sensitization,D006948
+angiopathy,D001018
+congestive heart failure,D006333
+diaphragmatic hernia,D006548
+hypoplastic left heart syndrome,D018636
+transverse limb deficiency,D017880
+atrial septal defects,D006344
+cleft palate,D002972
+anophthalmia,D000853
+birth defects,D000014
+choanal atresia,D002754
+microphthalmos,D008850
+cleft lip,D002971
+anencephaly,D000757
+acute nonlymphocytic leukemia,D015470
+non-Hodgkin's lymphoma,D008228
+carcinoma,D002277
+hepatomegaly,D006529
+fatty change,D005234
+Jaundice,D007565
+hepatic injury,D056486
+anorexia,D000855
+Alopecia,D000505
+paresthesias,D010292
+arthralgias,D018771
+phlebitis,D010689
+alopecia,D000505
+papilledema,D010211
+retinal detachment,D012163
+ocular pain,D058447
+infections,D007239
+Neutropenia,D009503
+toxic neurodegenerative cascade,D009410
+abnormal liver function,D056486
+hyperbilirubinemia,D006932
+hyperkinesis,D006948
+behavioral disorder,D002653
+hypereosinophilia,D004802
+pruritus,D011537
+Myopathy,D009135
+lupus erythematosus,D008180
+cardiac tamponade,D002305
+parasomnias,D020447
+orthostatic hypotension,D007024
+stuporous,D053608
+overdose,D062787
+postoperative nausea and vomiting,D020250
+Renal Fanconi syndrome,D005198
+biventricular dysfunction,D018754
+cyanosis,D003490
+neuropathy,D009422
+ototoxicity,D006311
+femoral nerve palsy,D020428
+muscle tear,D009135
+tubular necrosis,D007683
+memory impaired,D008569
+memory deficiency,D008569
+intrauterine growth retardation,D005317
+increase of external and skeletal variations,D009139
+nephrotoxic,D007674
+impaired blood clotting,D020141
+white matter edema,D001929
+metabolic acidosis,D000138
+fulminant hepatitis,D017114
+impairment of hepatic function,D008107
+epilepsy,D004827
+renal insufficiency,D051437
+reduction in blood pressure,D007022
+Transient neurologic symptoms,D009422
+Seizure,D012640
+hypertensive,D006973
+Sinus arrest,D054138
+bradyarrhythmias,D001919
+gall bladder stones,D042882
+Cardiovascular complications,D002318
+subpial necrosis,D013118
+Hyperkalemia,D006947
+Ventricular tachyarrhythmias,D014693
+prolactinomas,D015175
+Liver enlargement,D006529
+muscle wastage,D009133
+Seizures,D012640
+thoracic aortic aneurysm,D017545
+hyperprolactinemic,D006966
+premature atherosclerosis,D050197
+temporal lobe epilepsy,D004833
+myocardial stunning,D017682
+Urinary bladder cancer,D001749
+white matter abnormalities,D056784
+pulmonary hypertension,D006976
+Microangiopathic hemolytic anemia,D000743
+delirium,D003693
+suppression of motility,D011596
+hepatocellular carcinomas,D006528
+coronary spasm,D003329
+Bradycardia,D001919
+asystole,D006323
+miosis,D015877
+hyperhidrosis,D006945
+hypersalivation,D012798
+thrombotic thrombocytopenic purpura,D011697
+hemolytic-uremic syndrome,D006463
+Haematological toxicity,D006402
+musculoskeletal pain,D059352
+fever,D005334
+lymphadenopathy,D008206
+sepsis,D018805
+nephritis,D009393
+dermatitis,D003872
+hallucinations,D006212
+cardiac arrhythmias,D001145
+shock,D012769
+itchiness,D011537
+exanthema,D005076
+urtication,D014581
+diabetic neuropathy,D003929
+toxic neuropathy,D010523
+myoclonic jerks,D009207
+shortness of breath,D004417
+Hemolytic anemia,D000743
+lethargy,D053609
+glucose tolerance curves,D018149
+Peripheral neuropathy,D010523
+diarrhoea,D003967
+hemolysis,D006461
+hematuria,D006417
+cognitive dysfunction,D003072
+hiccups,D006606
+parkinsonism,D010302
+pericarditis,D010493
+Hallucinations,D006212
+low sexual desire,D020018
+nephrosclerosis,D009400
+vertigo,D014717
+increase in locomotor activity,D006948
+Erectile Dysfunction,D007172
+impairment of learning,D007859
+bruising,D003288
+orofacial dyskinesia,D004409
+Acute psychosis,D011605
+Visual hallucinations,D006212
+Agranulocytosis,D000380
+Amnesia,D000647
