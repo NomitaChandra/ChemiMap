@@ -1,0 +1,7 @@
+# Ignore
+./dsstox_lookup_table.csv
+./dsstox_lookup_table_v2.csv
+./mesh_lookup_and_dsstox_medic_1.ipynb
+./NER_test_output_devdata.txt
+./example_ner_mesh_normalization_output.txt
+./WITHOUT_LABELS_TEST_RESULTS_cdr_BSCELoss_tree_s0=0.3_dropout=0.5_66 (1).txt
