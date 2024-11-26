@@ -1,0 +1,150 @@
+6794356|t|Tricuspid valve regurgitation and lithium carbonate toxicity in a newborn infant.
+6794356|a|A newborn with massive tricuspid regurgitation, atrial flutter, congestive heart failure, and a high serum lithium level is described. This is the first patient to initially manifest tricuspid regurgitation and atrial flutter, and the 11th described patient with cardiac disease among infants exposed to lithium compounds in the first trimester of pregnancy. Sixty-three percent of these infants had tricuspid valve involvement. Lithium carbonate may be a factor in the increasing incidence of congenital heart disease when taken during early pregnancy. It also causes neurologic depression, cyanosis, and cardiac arrhythmia when consumed prior to delivery.
+6794356	0	29	Tricuspid valve regurgitation	Disease	entity_1
+6794356	34	51	lithium carbonate	Chemical	entity_2
+6794356	52	60	toxicity	Disease	entity_3
+6794356	105	129	tricuspid regurgitation,	Disease	entity_4
+6794356	130	145	atrial flutter,	Disease	entity_5
+6794356	146	171	congestive heart failure,	Disease	entity_6
+6794356	189	196	lithium	Chemical	entity_7
+6794356	265	288	tricuspid regurgitation	Disease	entity_8
+6794356	293	308	atrial flutter,	Disease	entity_9
+6794356	345	360	cardiac disease	Disease	entity_10
+6794356	386	393	lithium	Chemical	entity_11
+6794356	511	528	Lithium carbonate	Chemical	entity_12
+6794356	576	600	congenital heart disease	Disease	entity_13
+6794356	651	661	neurologic	Disease	entity_14
+6794356	688	706	cardiac arrhythmia	Disease	entity_15
+
+6504332|t|Phenobarbital-induced dyskinesia in a neurologically-impaired child.
+6504332|a|A 2-year-old child with known neurologic impairment developed a dyskinesia soon after starting phenobarbital therapy for seizures. Known causes of movement disorders were eliminated after evaluation. On repeat challenge with phenobarbital, the dyskinesia recurred. Phenobarbital should be added to the list of anticonvulsant drugs that can cause movement disorders.
+6504332	22	32	dyskinesia	Disease	entity_1
+6504332	38	61	neurologically-impaired	Disease	entity_2
+6504332	99	120	neurologic impairment	Disease	entity_3
+6504332	133	143	dyskinesia	Disease	entity_4
+6504332	164	177	phenobarbital	Chemical	entity_5
+6504332	190	199	seizures.	Disease	entity_6
+6504332	216	234	movement disorders	Disease	entity_7
+6504332	313	323	dyskinesia	Disease	entity_8
+6504332	334	347	Phenobarbital	Chemical	entity_9
+6504332	415	434	movement disorders.	Disease	entity_10
+
+6436733|t|Acute changes of blood ammonia may predict short-term adverse effects of valproic acid.
+6436733|a|Valproic acid (VPA) was given to 24 epileptic patients who were already being treated with other antiepileptic drugs. A standardized loading dose of VPA was administered, and venous blood was sampled at 0, 1, 2, 3, and 4 hours. Ammonia (NH3) was higher in patients who, during continuous therapy, complained of drowsiness (7 patients) than in those who were symptom-free (17 patients), although VPA plasma levels were similar in both groups. By measuring VPA-induced changes of blood NH3 content, it may be possible to identify patients at higher risk of obtundation when VPA is given chronically.
+6436733	23	30	ammonia	Chemical	entity_1
+6436733	73	81	valproic	Chemical	entity_2
+6436733	88	101	Valproic acid	Chemical	entity_3
+6436733	124	133	epileptic	Disease	entity_4
+6436733	237	240	VPA	Chemical	entity_5
+6436733	316	323	Ammonia	Chemical	entity_6
+6436733	399	409	drowsiness	Disease	entity_7
+6436733	483	486	VPA	Chemical	entity_8
+6436733	572	575	NH3	Chemical	entity_9
+6436733	643	654	obtundation	Disease	entity_10
+6436733	660	663	VPA	Chemical	entity_11
+
+6293644|t|Effects of calcitonin on rat extrapyramidal motor system: behavioral and biochemical data.
+6293644|a|The effects of i.v.c. injection of human and salmon calcitonin on biochemical and behavioral parameters related to the extrapyramidal motor system, were investigated in male rats. Calcitonin injection resulted in a potentiation of haloperidol-induced catalepsy and a partial prevention of apomorphine-induced hyperactivity. Moreover calcitonin induced a significant decrease in nigral GAD activity but no change in striatal DA and DOPAC concentration or GAD activity. The results are discussed in view of a primary action of calcitonin on the striatonigral GABAergic pathway mediating the DA-related behavioral messages of striatal origin.
+6293644	11	21	calcitonin	Chemical	entity_1
+6293644	143	153	calcitonin	Chemical	entity_2
+6293644	271	281	Calcitonin	Chemical	entity_3
+6293644	342	351	catalepsy	Disease	entity_4
+6293644	424	434	calcitonin	Chemical	entity_5
+6293644	515	517	DA	Chemical	entity_6
+6293644	522	527	DOPAC	Chemical	entity_7
+6293644	616	626	calcitonin	Chemical	entity_8
+
+6203632|t|Development of isoproterenol-induced cardiac hypertrophy.
+6203632|a|The development of cardiac hypertrophy was studied in adult female Wistar rats following daily subcutaneous injections of isoproterenol (ISO) (0.3 mg/kg body weight). A time course was established for the change in tissue mass, RNA and DNA content, as well as hydroxyproline content. Heart weight increased 44% after 8 days of treatment with a half time of 3.4 days. Ventricular RNA content was elevated 26% after 24 h of a single injection and reached a maximal level following 8 days of therapy. The half time for RNA accumulation was 2.0 days. The total content of hydroxyproline remained stable during the first 2 days of treatment but increased 46% after 4 days of therapy. Ventricular DNA content was unchanged during the early stage (1-4 days) of hypertrophic growth but increased to a new steady-state level 19% above the controls after 8 days of treatment. Intraventricular pressures and coronary flow measures were similar for control and experimental animals following 4 days of developed hypertrophy. However, dP/dt in the ISO-treated hearts was slightly but significantly (P less than 0.05) elevated. These data indicate that the adaptive response to ISO shows an early hypertrophic phase (1-4 days) characterized by a substantial increase in RNA content and cardiac mass in the absence of changes in DNA. However, prolonged stimulation (8-12 days) appears to represent a complex integration of both cellular hypertrophy and hyperplasia within the heart.
+6203632	37	57	cardiac hypertrophy.	Disease	entity_1
+6203632	77	96	cardiac hypertrophy	Disease	entity_2
+6203632	180	193	isoproterenol	Chemical	entity_3
+6203632	318	332	hydroxyproline	Chemical	entity_4
+6203632	626	640	hydroxyproline	Chemical	entity_5
+6203632	812	824	hypertrophic	Disease	entity_6
+6203632	1058	1070	hypertrophy.	Disease	entity_7
+6203632	1222	1225	ISO	Chemical	entity_8
+6203632	1241	1253	hypertrophic	Disease	entity_9
+6203632	1480	1491	hypertrophy	Disease	entity_10
+6203632	1496	1507	hyperplasia	Disease	entity_11
+
+3131282|t|Co-carcinogenic effect of retinyl acetate on forestomach carcinogenesis of male F344 rats induced with butylated hydroxyanisole.
+3131282|a|The potential modifying effect of retinyl acetate (RA) on butylated hydroxyanisole (BHA)-induced rat forestomach tumorigenesis was examined. Male F344 rats, 5 weeks of age, were maintained on diet containing 1% or 2% BHA by weight and simultaneously on drinking water supplemented with RA at various concentrations (w/v) for 52 weeks. In groups given 2% BHA, although marked hyperplastic changes of the forestomach epithelium were observed in all animals, co-administration of 0.25% RA significantly (P less than 0.05) increased the incidence of forestomach tumors (squamous cell papilloma and carcinoma) to 60% (9/15, 2 rats with carcinoma) from 15% (3/20, one rat with carcinoma) in the group given RA-free water. In rats given 1% BHA, RA co-administered at a dose of 0.05, 0.1, 0.2 or 0.25% showed a dose-dependent enhancing effect on the development of the BHA-induced epithelial hyperplasia. Tumors, all papillomas, were induced in 3 rats (17%) with 0.25% RA and in one rat (10%) with 0.05% RA co-administration. RA alone did not induce hyperplastic changes in the forestomach. These findings indicate that RA acted as a co-carcinogen in the BHA forestomach carcinogenesis of the rat.
+3131282	26	41	retinyl acetate	Chemical	entity_1
+3131282	45	71	forestomach carcinogenesis	Disease	entity_2
+3131282	103	128	butylated hydroxyanisole.	Chemical	entity_3
+3131282	163	178	retinyl acetate	Chemical	entity_4
+3131282	187	211	butylated hydroxyanisole	Chemical	entity_5
+3131282	230	241	forestomach	Disease	entity_6
+3131282	346	349	BHA	Chemical	entity_7
+3131282	415	417	RA	Chemical	entity_8
+3131282	612	614	RA	Chemical	entity_9
+3131282	675	693	forestomach tumors	Disease	entity_10
+3131282	694	718	(squamous cell papilloma	Disease	entity_11
+3131282	867	869	RA	Chemical	entity_12
+3131282	1038	1049	papillomas,	Disease	entity_13
+3131282	1090	1092	RA	Chemical	entity_14
+3131282	1125	1127	RA	Chemical	entity_15
+3131282	1147	1149	RA	Chemical	entity_16
+3131282	1241	1243	RA	Chemical	entity_17
+3131282	1276	1279	BHA	Chemical	entity_18
+3131282	1280	1291	forestomach	Disease	entity_19
+
+3115150|t|Ketanserin pretreatment reverses alfentanil-induced muscle rigidity.
+3115150|a|Systemic pretreatment with ketanserin, a relatively specific type-2 serotonin receptor antagonist, significantly attenuated the muscle rigidity produced in rats by the potent short-acting opiate agonist alfentanil. Following placement of subcutaneous electrodes in each animal's left gastrocnemius muscle, rigidity was assessed by analyzing root-mean-square electromyographic activity. Intraperitoneal ketanserin administration at doses of 0.63 and 2.5 mg/kg prevented the alfentanil-induced increase in electromyographic activity compared with animals pretreated with saline. Chlordiazepoxide at doses up to 10 mg/kg failed to significantly influence the rigidity produced by alfentanil. Despite the absence of rigidity, animals that received ketanserin (greater than 0.31 mg/kg i.p.) followed by alfentanil were motionless, flaccid, and less responsive to external stimuli than were animals receiving alfentanil alone. Rats that received ketanserin and alfentanil exhibited less rearing and exploratory behavior at the end of the 60-min recording period than did animals that received ketanserin alone. These results, in combination with previous work, suggest that muscle rigidity, a clinically relevant side-effect of parenteral narcotic administration, may be partly mediated via serotonergic pathways. Pretreatment with type-2 serotonin antagonists may be clinically useful in attenuating opiate-induced rigidity, although further studies will be necessary to assess the interaction of possibly enhanced CNS, cardiovascular, and respiratory depression.
+3115150	0	10	Ketanserin	Chemical	entity_1
+3115150	52	68	muscle rigidity.	Disease	entity_2
+3115150	96	107	ketanserin,	Chemical	entity_3
+3115150	137	146	serotonin	Chemical	entity_4
+3115150	197	212	muscle rigidity	Disease	entity_5
+3115150	375	383	rigidity	Disease	entity_6
+3115150	471	481	ketanserin	Chemical	entity_7
+3115150	646	662	Chlordiazepoxide	Chemical	entity_8
+3115150	725	733	rigidity	Disease	entity_9
+3115150	813	823	ketanserin	Chemical	entity_10
+3115150	867	877	alfentanil	Chemical	entity_11
+3115150	972	982	alfentanil	Chemical	entity_12
+3115150	1009	1019	ketanserin	Chemical	entity_13
+3115150	1024	1034	alfentanil	Chemical	entity_14
+3115150	1156	1166	ketanserin	Chemical	entity_15
+3115150	1237	1253	muscle rigidity,	Disease	entity_16
+3115150	1402	1411	serotonin	Chemical	entity_17
+3115150	1584	1615	cardiovascular, and respiratory	Disease	entity_18
+
+2917114|t|Glycopyrronium requirements for antagonism of the muscarinic side effects of edrophonium.
+2917114|a|We have compared, in 60 adult patients, the cardiovascular effects of glycopyrronium 5 micrograms kg-1 and 10 micrograms kg-1 given either simultaneously or 1 min before edrophonium 1 mg kg-1. Significant differences between the four groups were detected (P less than 0.001). Both groups receiving 10 micrograms kg-1 showed increases in heart rate of up to 30 beat min-1 (95% confidence limits 28-32 beat min-1). Use of glycopyrronium 5 micrograms kg-1 provided greater cardiovascular stability and, given 1 min before the edrophonium, was sufficient to minimize early, edrophonium-induced bradycardias. This low dose of glycopyrronium provided good control of oropharyngeal secretions.
+2917114	0	14	Glycopyrronium	Chemical	entity_1
+2917114	77	89	edrophonium.	Chemical	entity_2
+2917114	160	174	glycopyrronium	Chemical	entity_3
+2917114	260	271	edrophonium	Chemical	entity_4
+2917114	510	524	glycopyrronium	Chemical	entity_5
+2917114	613	625	edrophonium,	Chemical	entity_6
+2917114	680	693	bradycardias.	Disease	entity_7
+2917114	711	725	glycopyrronium	Chemical	entity_8
+
+2564649|t|Involvement of locus coeruleus and noradrenergic neurotransmission in fentanyl-induced muscular rigidity in the rat.
+2564649|a|Whereas muscular rigidity is a well-known side effect that is associated with high-dose fentanyl anesthesia, a paucity of information exists with regard to its underlying mechanism(s). We investigated in this study the possible engagement of locus coeruleus of the pons in this phenomenon, using male Sprague-Dawley rats anesthetized with ketamine. Under proper control of respiration, body temperature and end-tidal CO2, intravenous administration of fentanyl (50 or 100 micrograms/kg) consistently promoted an increase in electromyographic activity recorded from the gastrocnemius and abdominal rectus muscles. Such an induced muscular rigidity by the narcotic agent was significantly antagonized or even reduced by prior electrolytic lesions of the locus coeruleus or pretreatment with the alpha-adrenoceptor blocker, prazosin. Microinjection of fentanyl (2.5 micrograms/50 nl) directly into this pontine nucleus, on the other hand, elicited discernible electromyographic excitation. It is speculated that the induction of muscular rigidity by fentanyl may involve the coerulospinal noradrenergic fibers to the spinal motoneurons.
+2564649	87	104	muscular rigidity	Disease	entity_1
+2564649	125	142	muscular rigidity	Disease	entity_2
+2564649	205	213	fentanyl	Chemical	entity_3
+2564649	569	577	fentanyl	Chemical	entity_4
+2564649	746	763	muscular rigidity	Disease	entity_5
+2564649	938	947	prazosin.	Chemical	entity_6
+2564649	966	974	fentanyl	Chemical	entity_7
+2564649	1143	1160	muscular rigidity	Disease	entity_8
+2564649	1164	1172	fentanyl	Chemical	entity_9
+
+2339463|t|Cerebral sinus thrombosis as a potential hazard of antifibrinolytic treatment in menorrhagia.
+2339463|a|We describe a 42-year-old woman who developed superior sagittal and left transverse sinus thrombosis associated with prolonged epsilon-aminocaproic acid therapy for menorrhagia. This antifibrinolytic agent has been used in women with menorrhagia to promote clotting and reduce blood loss. Although increased risk of thromboembolic disease has been reported during treatment with epsilon-aminocaproic acid, cerebral sinus thrombosis has not been previously described. Careful use of epsilon-aminocaproic acid therapy is recommended.
+2339463	0	25	Cerebral sinus thrombosis	Disease	entity_1
+2339463	81	93	menorrhagia.	Disease	entity_2
+2339463	178	194	sinus thrombosis	Disease	entity_3
+2339463	221	246	epsilon-aminocaproic acid	Chemical	entity_4
+2339463	259	271	menorrhagia.	Disease	entity_5
+2339463	328	339	menorrhagia	Disease	entity_6
+2339463	371	376	blood	Disease	entity_7
+2339463	410	432	thromboembolic disease	Disease	entity_8
+2339463	473	493	epsilon-aminocaproic	Chemical	entity_9
+2339463	500	525	cerebral sinus thrombosis	Disease	entity_10
+2339463	576	601	epsilon-aminocaproic acid	Chemical	entity_11
+
