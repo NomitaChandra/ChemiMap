@@ -1,0 +1,3 @@
+[submodule "models/SSGU-CD-all"]
+	path = models/SSGU-CD-all
+	url = https://github.com/NomitaChandra/SSGU-CD-all.git
