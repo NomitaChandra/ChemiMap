@@ -73,6 +73,7 @@ chmod +x run_pipeline.sh
 Environment Activation Issues: Verify that venv and ssgu_env are correctly set up and accessible.
 
 # Pre-Processing
+`pipeline_combined.py`
 
 This script levarages a complex pre-processing structure based on the scripts below.
 
@@ -153,6 +154,46 @@ Run the script with the following command:
 ```bash
 python pipeline_part_2_mesh.py --input_file <ner_output_file> --lookup_file <lookup_table_file> --output_file <normalized_output_file>
 ```
+
+# Relation Extraction (RE) and Post processing
+`process_and_evaluate.py`
+
+This part leverages the scripts in ChemiMap/models/SSGU-CD-all.
+
+Workflow
+
+- Pre-processing: Prepare input files using process_cdr.py.
+- Model Training and Evaluation: Run process_and_evaluate.py to train the model and generate predictions.
+- Post-processing: Use re_postprocessing.py to structure RE outputs and map entities.
+
+
+
+## process_and_evaluate.py
+- Trains and evaluates the RE model using transformer-based architectures.
+- Includes pre-processing, training, and evaluation functions.
+
+Key Features:
+
+- Configurable model parameters (e.g., transformer type, learning rate).
+- GPU or CPU support.
+- Outputs predictions in .pubtator format for compatibility with existing tools.
+
+
+## re_postprocessing.py 
+- Processes RE outputs into structured CSV files.
+- Maps MeSH IDs to official names using a lookup table.
+- Outputs:
+  - `re_output_postprocessed_entities.csv`: Entities with normalized names.
+  - `re_output_postprocessed_relationships.csv`: Relationships between entities.
+
+#### Usage:
+Replace paths for the input RE file, MeSH lookup file, and output CSVs, then run the script:
+
+## evaluation.py
+- Evaluates RE model predictions against gold-standard data.
+- Metrics: Precision, Recall, and F1-Score.
+- Converts predictions into formats like .pubtator for further analysis.
+
 
 ## License
 This script is provided "as-is" without warranty of any kind.
