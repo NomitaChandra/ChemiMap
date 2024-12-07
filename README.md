@@ -16,9 +16,8 @@ The SSGU-CD RE model is a BERT-based model that uses a Graph Convolutional Netwo
 
 # GitHub Repo Guide 
 
-- Justin_working_file inclues the code for the pipeline steps for ConNER model as well as the MeSH ID model. This folder also have data and model analysis 
+- ongoing_experiments_and_analysis inclues the code for the steps for ConNER model as well as the MeSH ID model. This folder also have data and model analysis 
 - analysis includes code to the inital data analysis for the CDR dataset.
 - data includes the files for the processed training, validation, and testing files for the RE model.
-- database/neo4j/sample includes the database and neo4j starter code.
 - models includes the ConNER model and the associated docker file
 - pipeline inclues the scripts to run the entire pipeline from NER, MeSH model, to RE model, and postprocessing. 
