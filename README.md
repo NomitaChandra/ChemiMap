@@ -20,4 +20,4 @@ The SSGU-CD RE model is a BERT-based model that uses a Graph Convolutional Netwo
 - 'analysis' folder includes code to the inital data analysis for the CDR dataset.
 - 'data' folder includes the files for the processed training, validation, and testing files for the RE model.
 - 'models' folder includes the ConNER model and the associated docker file as well as the RE model.
-- 'pipeline' folder inclues the scripts to run the entire pipeline from NER, MeSH model, to RE model, and postprocessing. 
+- 'combined_pipeline' folder inclues the scripts to run the entire pipeline from NER, MeSH model, to RE model, and postprocessing. 
