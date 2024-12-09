@@ -1,4 +1,5 @@
-## ChemiMap
+![image](https://github.com/user-attachments/assets/f458f925-8ed5-4991-8dd1-8c373f114405)
+
 # Problem & Motivation
 "Reading through hundreds of scientific papers is so fun and efficient!" said no one, ever. 
 
